@@ -1,7 +1,7 @@
 
-  # Fix and Run Application
+  # Fix error
 
-  This is a code bundle for Fix and Run Application. The original project is available at https://www.figma.com/design/XHn9ZPE0N8WCA4vtNmwz3t/Fix-and-Run-Application.
+  This is a code bundle for Fix error. The original project is available at https://www.figma.com/design/oFXUzgbBLUvlf4EV6WBWjg/Fix-error.
 
   ## Running the code
 

@@ -1,0 +1,379 @@
+Create a premium, classic, modern corporate website for a technology company named "NEXIORA".
+
+IMPORTANT:
+Do not copy any existing website. Use the provided website only as inspiration for layout quality and premium feel. Design must be completely unique.
+
+Use the uploaded Nexiora logo as the official company logo throughout the website.
+
+Company Details:
+Company Name: NEXIORA
+
+Tagline:
+Building the Next Era of Technology
+
+Business Type:
+Software Development Company
+Web Development
+Mobile App Development
+UI/UX Design
+AI Solutions
+Cloud Solutions
+Business Automation
+Custom Software Development
+
+Brand Personality:
+Premium
+Professional
+Luxury
+Corporate
+Minimal
+Elegant
+Trustworthy
+Innovative
+
+Color Palette:
+Primary: #0A2342 (Deep Navy Blue)
+Secondary: #C89B3C (Luxury Gold)
+Background: White (#FFFFFF)
+Section Background: #F8F9FA
+Text: #1F2937
+Accent: #3B82F6
+
+Typography:
+Modern Sans-serif
+Large Bold Headlines
+Elegant spacing
+Minimal design
+Premium card layouts
+
+Website Style:
+Apple
+Stripe
+Vercel
+Linear
+Framer
+Corporate Agency
+
+------------------------------------
+HERO SECTION
+------------------------------------
+
+Display the Nexiora logo.
+
+Large Heading:
+
+Building the Next Era of Technology
+
+Sub Heading:
+
+We design and develop premium websites, business applications, mobile apps, UI/UX experiences, AI-powered solutions and scalable software for startups and businesses.
+
+Primary Button:
+Start Your Project
+
+Secondary Button:
+Our Services
+
+On the right side include an elegant futuristic illustration representing software development, cloud computing, AI and digital transformation.
+
+Background should have subtle gradients with floating abstract shapes.
+
+------------------------------------
+ABOUT COMPANY
+------------------------------------
+
+Title:
+
+Who We Are
+
+Content:
+
+Nexiora is a modern technology company dedicated to helping businesses grow through innovative software solutions. We combine creativity, technology and strategy to build high-quality digital products that deliver real business value.
+
+Include premium feature cards.
+
+------------------------------------
+SERVICES
+------------------------------------
+
+Display modern premium service cards:
+
+Website Development
+
+Web Application Development
+
+UI/UX Design
+
+Mobile App Development
+
+AI Integration
+
+Backend Development
+
+Database Design
+
+Cloud Deployment
+
+Maintenance & Support
+
+Each card should have:
+Professional icon
+Hover animation
+Short description
+
+------------------------------------
+WHY CHOOSE US
+------------------------------------
+
+Four elegant cards
+
+Modern Technologies
+
+Fast Project Delivery
+
+Affordable Pricing
+
+Dedicated Support
+
+------------------------------------
+OUR PROCESS
+------------------------------------
+
+Timeline
+
+01
+Requirement Analysis
+
+02
+Planning & UI/UX Design
+
+03
+Development
+
+04
+Testing & Quality Assurance
+
+05
+Deployment
+
+06
+Support & Maintenance
+
+------------------------------------
+TECHNOLOGIES
+------------------------------------
+
+Display premium technology badges:
+
+HTML5
+
+CSS3
+
+JavaScript
+
+React
+
+Next.js
+
+Node.js
+
+Express.js
+
+Python
+
+Java
+
+MySQL
+
+MongoDB
+
+Firebase
+
+Git
+
+GitHub
+
+Figma
+
+VS Code
+
+------------------------------------
+FEATURED PROJECTS
+------------------------------------
+
+Create six elegant portfolio cards
+
+Textile Website
+
+Hotel Website
+
+Restaurant Website
+
+Gym Website
+
+Medical Store Website
+
+Educational Website
+
+Each card includes
+
+Project image placeholder
+
+Category
+
+Short description
+
+View Project button
+
+------------------------------------
+OUR ACHIEVEMENTS
+------------------------------------
+
+Animated Counters
+
+25+
+
+Projects Completed
+
+15+
+
+Happy Clients
+
+2+
+
+Years Learning & Building
+
+100%
+
+Client Satisfaction
+
+------------------------------------
+TESTIMONIALS
+------------------------------------
+
+Create three premium testimonial cards with professional layout.
+
+------------------------------------
+CONTACT SECTION
+------------------------------------
+
+Heading
+
+Let's Build Something Great Together
+
+Description
+
+Have an idea? Let's turn it into reality.
+
+Contact Information
+
+Email
+
+tech.nexiora@gmail.com
+
+Phone
+
++91 6381251300
+
++91 8300150181
+
+Include
+
+Professional Contact Form
+
+Google Maps placeholder
+
+Social Icons
+
+------------------------------------
+FOOTER
+------------------------------------
+
+Display Nexiora logo
+
+Quick Links
+
+Services
+
+Company
+
+Contact
+
+Email
+
+tech.nexiora@gmail.com
+
+Phone
+
+6381251300
+
+8300150181
+
+Tagline
+
+Building the Next Era of Technology
+
+Copyright
+
+© 2026 Nexiora. All Rights Reserved.
+
+------------------------------------
+ANIMATIONS
+------------------------------------
+
+Smooth Scroll
+
+Fade Up
+
+Slide Animations
+
+Hover Effects
+
+Glass Cards
+
+Soft Shadows
+
+Gradient Buttons
+
+Premium Transitions
+
+Floating Background Shapes
+
+------------------------------------
+RESPONSIVE
+------------------------------------
+
+Desktop
+
+Laptop
+
+Tablet
+
+Mobile
+
+------------------------------------
+OVERALL DESIGN
+------------------------------------
+
+Luxury Corporate
+
+Minimal
+
+Clean
+
+Professional
+
+Business Focused
+
+Premium UI
+
+High Trust
+
+Modern Startup
+
+Excellent White Space
+
+Apple-level Design Quality
+
+Do not make it look AI generated.
+Make it look like a real international software company website built by an experienced UI/UX designer.
